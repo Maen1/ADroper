@@ -16,7 +16,7 @@ http://adroper.azurewebsites.com/api/courses/{college}/{degree}/{semester}/
 
 ---
 
-http://adroper.azurewebsites.com/api/courses/ARCHITECTURE/UNDERGRADUATE/2/
+http://adroper.azurewebsites.net/api/courses/engin/undergraduate/2/
 
 ---
 ### Colleges:
