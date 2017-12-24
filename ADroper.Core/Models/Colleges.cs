@@ -27,7 +27,19 @@ namespace ADroper.Core.Models
         public const string ISLAMIC_BANKING_AND_FINANCE = "IIBF";
         public const string INTERNATIONAL_INSTITUTE_FOR_HALAL_RESEARCH_AND_TRAINING = "IHART";
 
-        public static List<string> GetAllColleges()
+        public static string GetCollege(string name)
+        {
+            for (int i = 0; i < GetAllColleges().Count; i++)
+            {
+                if (GetAllColleges()[i].ToLower() == name.ToLower())
+                {
+                    return GetAllCollegesValues()[i] ;
+                }
+            }
+            return null;
+        }
+
+        private static List<string> GetAllColleges()
         {
             return new List<string>
             {
@@ -54,7 +66,7 @@ namespace ADroper.Core.Models
             };
         }
 
-        public static List<string> GetAllCollegesValues()
+        private static List<string> GetAllCollegesValues()
         {
             return new List<string>
             {
@@ -80,5 +92,6 @@ namespace ADroper.Core.Models
                 INTERNATIONAL_INSTITUTE_FOR_HALAL_RESEARCH_AND_TRAINING
             };
         }
+
     }
 }
