@@ -5,54 +5,91 @@
 ---
 
 ### The URL should follow this pattern:
-'''
+
+---
+
 http://adroper.azurewebsites.com/{college}/{degree}/{session}/{semester}/
-'''
+
+---
+
 ### Eaxmple:
-'''
+
+---
+
 http://adroper.azurewebsites.com/ARCHITECTURE/UNDERGRADUATE/2017-2018/2/
-'''
-###Colleges:
+
+---
+### Colleges:
 ---
 LAWS
+
 ECONS
+
 IRKHS
+
 ENGIN
+
 ARCHITECTURE
+
 EDUCATION
+
 ICT
+
 SCIENCE
+
 CELPAD
+
 COCU
+
 KLM
+
 ISTAC
+
 MEDICINE
+
 PHARMACY
+
 NURSING
+
 ALLIED_HEALTH_SCIENCES
+
 DENTISTRY
+
 BRIDGING_PROGRAMME
+
 ISLAMIC_BANKING_AND_FINANCE
+
 INTERNATIONAL_INSTITUTE_FOR_HALAL_RESEARCH_AND_TRAINING
+
 ---
 
 ### Degrees:
 ---
+
 UNDERGRADUATE
+
 POSTGRADUATE 
+
 ---
 
-### Session:
+### Sessions:
 ---
+
 2017-2018
+
 2018-2019
 
 etc.
+
 ---
 
-### Semester:
+### Semesters:
 ---
+
 1
+
 2
+
 3
+
 ---
