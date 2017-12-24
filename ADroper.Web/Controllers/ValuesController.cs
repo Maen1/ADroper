@@ -11,14 +11,7 @@ namespace ADroper.Web.Controllers
     [Route("api/[controller]")]
     public class ValuesController : Controller
     {
-        // GET api/values
-        [HttpGet]
-        public IEnumerable<string> Get()
-        {
-            return new string[] { "value1", "value2" };
-        }
-
-        [HttpGet("{college}/{degree}/{semester}/")]
+        [HttpGet("{college}/{degree}/{semester}")]
         public async Task<IActionResult> Get(string college, string degree, int semester)
         {
             if (CheckParameters(college, degree, semester))
@@ -31,10 +24,11 @@ namespace ADroper.Web.Controllers
 
             var myCollege = new College() { Name = collegeValue, Degree = degreeValue, Semester = semester, Session = "2017/2018" };
             var courses = await Fetcher.GetCoursesAsync(myCollege);
-            return Ok();
+
+            return Ok(courses);
         }
 
-     
+
         #region Helpers
 
         private bool CheckParameters(string college, string degree, int semester)
