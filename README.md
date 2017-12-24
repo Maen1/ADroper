@@ -8,7 +8,7 @@
 
 ---
 
-http://adroper.azurewebsites.com/{college}/{degree}/{session}/{semester}/
+http://adroper.azurewebsites.com/api/courses/{college}/{degree}/{semester}/
 
 ---
 
@@ -16,7 +16,7 @@ http://adroper.azurewebsites.com/{college}/{degree}/{session}/{semester}/
 
 ---
 
-http://adroper.azurewebsites.com/ARCHITECTURE/UNDERGRADUATE/2017-2018/2/
+http://adroper.azurewebsites.com/api/courses/ARCHITECTURE/UNDERGRADUATE/2/
 
 ---
 ### Colleges:
@@ -72,16 +72,6 @@ POSTGRADUATE
 
 ---
 
-### Sessions:
----
-
-2017-2018
-
-2018-2019
-
-etc.
-
----
 
 ### Semesters:
 ---
