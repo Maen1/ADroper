@@ -13,10 +13,10 @@ namespace ADroper
     {
         static async Task Main(string[] args)
         {
-            var path = @"ENGIN.json"; // File Name
+            var path = @"Tests Files\\ICT.json"; 
             Console.WriteLine("Loading Data...");
 
-            var college = new College() { Name = Colleges.ENGIN, Degree = Degrees.UNDERGRADUATE, Semester = 2, Session = "2017/2018" };
+            var college = new College() { Name = Colleges.ICT, Degree = Degrees.UNDERGRADUATE, Semester = 2, Session = "2017/2018" };
             var courses = await Fetcher.GetCoursesAsync(college);
 
             Console.WriteLine("Converting Data...");

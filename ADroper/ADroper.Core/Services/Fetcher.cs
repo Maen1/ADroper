@@ -26,7 +26,7 @@ namespace ADroper.Core.Services
                 var entities = doc.QuerySelectorAll(cellSelector).Select(
                     entity => new
                     {
-                        Code = entity.QuerySelector("body > table:nth-child(4) > tbody > tr:nth-child(n+3) > td:nth-child(1)").TextContent,
+                        Code = entity.QuerySelector("body > table:nth-child(4) > tbody > tr:nth-child(n+3) > td:nth-child(1):not(:last-child)").TextContent,
                         Section = entity.QuerySelector("body > table:nth-child(4) > tbody > tr:nth-child(n+3) > td:nth-child(2)").TextContent,
                         Title = entity.QuerySelector("body > table:nth-child(4) > tbody > tr:nth-child(n+3) > td:nth-child(3)").TextContent,
                         Days = entity.QuerySelectorAll("body > table:nth-child(4) > tbody > tr:nth-child(n+3) > td:nth-child(5) > table > tbody> tr > td:nth-child(1)").Select(a => a.TextContent),
