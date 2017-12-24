@@ -26,5 +26,59 @@ namespace ADroper.Core.Models
         public const string BRIDGING_PROGRAMME = "BRIDG";
         public const string ISLAMIC_BANKING_AND_FINANCE = "IIBF";
         public const string INTERNATIONAL_INSTITUTE_FOR_HALAL_RESEARCH_AND_TRAINING = "IHART";
+
+        public static List<string> GetAllColleges()
+        {
+            return new List<string>
+            {
+                nameof(LAWS),
+                nameof(ECONS),
+                nameof(IRKHS),
+                nameof(ENGIN),
+                nameof(ARCHITECTURE),
+                nameof(EDUCATION),
+                nameof(ICT),
+                nameof(SCIENCE),
+                nameof(CELPAD),
+                nameof(COCU),
+                nameof(KLM),
+                nameof(ISTAC),
+                nameof(MEDICINE),
+                nameof(PHARMACY),
+                nameof(NURSING),
+                nameof(ALLIED_HEALTH_SCIENCES),
+                nameof(DENTISTRY),
+                nameof(BRIDGING_PROGRAMME),
+                nameof(ISLAMIC_BANKING_AND_FINANCE),
+                nameof(INTERNATIONAL_INSTITUTE_FOR_HALAL_RESEARCH_AND_TRAINING)
+            };
+        }
+
+        public static List<string> GetAllCollegesValues()
+        {
+            return new List<string>
+            {
+                LAWS,
+                ECONS,
+                IRKHS,
+                ENGIN,
+                ARCHITECTURE,
+                EDUCATION,
+                ICT,
+                SCIENCE,
+                CELPAD,
+                COCU,
+                KLM,
+                ISTAC,
+                MEDICINE,
+                PHARMACY,
+                NURSING,
+                ALLIED_HEALTH_SCIENCES,
+                DENTISTRY,
+                BRIDGING_PROGRAMME,
+                ISLAMIC_BANKING_AND_FINANCE,
+                INTERNATIONAL_INSTITUTE_FOR_HALAL_RESEARCH_AND_TRAINING
+            };
+        }
     }
 }
