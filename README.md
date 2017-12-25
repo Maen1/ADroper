@@ -1,85 +1,83 @@
----
 # ADroper
+
+### IIUM COURSE SCHEDULE WEB API
+
+
+The courses website:
+
+```URL
+http://myapps.iium.edu.my/StudentOnline/schedule1.php
+```
+
+
+The URL should follow this pattern! :+1:
+
+```URL
+https://adroper.azurewebsites.com/api/courses/{college}/{degree}/{semester}/
+```
+
+Examples!
+
+```URL
+
+- https://adroper.azurewebsites.net/api/courses/engin/undergraduate/2/
+
+- https://adroper.azurewebsites.net/api/courses/architecture/postgraduate/1/
+
+```
 ---
-## IIUM COURSE SCHEDULE WEB API
----
+#### Note:
+Some colleges offer courses both 'P = Postgraduate' & 'U = Undergraduate' degrees and some don't. :-(
 
-### The URL should follow this pattern:
-
----
-
-http://adroper.azurewebsites.com/api/courses/{college}/{degree}/{semester}/
-
----
-
-### Eaxmple:
-
----
-
-http://adroper.azurewebsites.net/api/courses/engin/undergraduate/2/
-
----
 ### Colleges:
----
-LAWS
 
-ECONS
+ * LAWS __[P & U]__
 
-IRKHS
+ * ECONS __[P & U]__
 
-ENGIN
+ * IRKHS __[P & U]__
 
-ARCHITECTURE
+ * ENGIN __[P & U]__
 
-EDUCATION
+ * ARCHITECTURE __[P & U]__
 
-ICT
+ * EDUCATION __[P & U]__
 
-SCIENCE
+ * ICT __[P & U]__
 
-CELPAD
+ * SCIENCE __[U]__
 
-COCU
+ * CELPAD __[P & U]__
 
-KLM
+ * COCU __[U]__
 
-ISTAC
+ * KLM __[P & U]__
 
-MEDICINE
+ * ISTAC __[NOT AVAILABLE]__
 
-PHARMACY
+ * MEDICINE  __[P]__
 
-NURSING
+ * PHARMACY __[NOT AVAILABLE]__
 
-ALLIED_HEALTH_SCIENCES
+ * NURSING __[NOT AVAILABLE]__
 
-DENTISTRY
+ * ALLIED_HEALTH_SCIENCES  __[U]__
 
-BRIDGING_PROGRAMME
+ * DENTISTRY  __[NOT AVAILABLE]__
 
-ISLAMIC_BANKING_AND_FINANCE
+ * BRIDGING_PROGRAMME __[U]__
 
-INTERNATIONAL_INSTITUTE_FOR_HALAL_RESEARCH_AND_TRAINING
+ * ISLAMIC_BANKING_AND_FINANCE __[NOT AVAILABLE]__
 
----
+ * INTERNATIONAL_INSTITUTE_FOR_HALAL_RESEARCH_AND_TRAINING __[P]__
+ 
+ ### Degrees:
+ 
+ * UNDERGRADUATE
 
-### Degrees:
----
-
-UNDERGRADUATE
-
-POSTGRADUATE 
-
----
-
-
-### Semesters:
----
-
-1
-
-2
-
-3
-
----
+ * POSTGRADUATE
+ 
+ ### Semesters:
+ * 1
+ * 2
+ * 3
