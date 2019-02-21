@@ -1,6 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using System;
 
 using ADroper.Core.Models;
 using AngleSharp;
@@ -20,7 +21,8 @@ namespace ADroper.Core.Services
             var pagesCount = await GetPagesCountAsync(college);
             for (int i = 1; i <= pagesCount; i++)
             {
-                var address = $"http://myapps.iium.edu.my/StudentOnline/schedule1.php?kuly={college.Name}&sem={college.Semester}&ctype={college.Degree}&view={50 * i}&course=&action=view&ses={college.Session}&search=Submit";
+                var address = $"http://myapps.iium.edu.my/StudentOnline/schedule1.php?kuly={college.Name}&sem={college.Semester}&ctype={college.Degree}&view={ 50 * i}&course=&action=view&ses={college.Session}&search=Submit";
+                doc = await BrowsingContext.New(config).OpenAsync(address);
                 var cellSelector = "body > table:nth-child(4) > tbody > tr:nth-child(n+3):not(:last-child)";
 
                 var entities = doc.QuerySelectorAll(cellSelector).Select(
@@ -53,7 +55,7 @@ namespace ADroper.Core.Services
                 courses.AddRange(myCourses);
             }
 
-            MeregeSections(ref courses);
+            // MeregeSections(ref courses);
             return courses;
         }
 

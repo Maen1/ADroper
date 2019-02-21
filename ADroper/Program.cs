@@ -13,15 +13,15 @@ namespace ADroper
     {
         static async Task Main(string[] args)
         {
-            var path = @"Tests Files\\ICT.json"; 
+            var path = @"ICT.json"; 
             Console.WriteLine("Loading Data...");
 
-            var college = new College() { Name = Colleges.ICT, Degree = Degrees.UNDERGRADUATE, Semester = 2, Session = "2017/2018" };
+            var college = new College() { Name = Colleges.ICT , Degree = Degrees.UNDERGRADUATE, Semester = 1, Session = "2018/2019" };
             var courses = await Fetcher.GetCoursesAsync(college);
 
             Console.WriteLine("Converting Data...");
             var json = JsonConvert.SerializeObject(courses);
-
+        
             try
             {
                 Console.WriteLine("Writing Data...");

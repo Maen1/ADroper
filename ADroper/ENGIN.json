@@ -1,0 +1,2562 @@
+[
+    {
+        "Title": "BIOCHEMISTRY",
+        "Code": "BTE 2431"
+    },
+    {
+        "Title": "THERMODYNAMICS",
+        "Code": "BTE 2521"
+    },
+    {
+        "Title": "PRINCIPLES OF MASS AND ENERGY BALANCE",
+        "Code": "BTE 2522"
+    },
+    {
+        "Title": "BIOCHEMICAL ENGINEERING FUNDAMENTALS",
+        "Code": "BTE 2523"
+    },
+    {
+        "Title": "BIOTECHNOLOGY ENGINEERING LAB III",
+        "Code": "BTE 3211"
+    },
+    {
+        "Title": "BIOTECHNOLOGY ENGINEERING LAB IV",
+        "Code": "BTE 3212"
+    },
+    {
+        "Title": "HEAT AND MASS TRANSFER",
+        "Code": "BTE 3215"
+    },
+    {
+        "Title": "MOLECULAR BIOLOGY AND GENETIC ENGINEERING",
+        "Code": "BTE 3433"
+    },
+    {
+        "Title": "CELL AND TISSUE ENGINEERING",
+        "Code": "BTE 3471"
+    },
+    {
+        "Title": "SEPARATION PROCESSES I",
+        "Code": "BTE 3481"
+    },
+    {
+        "Title": "INTRODUCTION TO ENVIRONMENTAL ENGINEERING",
+        "Code": "BTE 3621"
+    },
+    {
+        "Title": "REACTION ENGINEERING",
+        "Code": "BTE 3720"
+    },
+    {
+        "Title": "INTEGRATED DESIGN PROJECT",
+        "Code": "BTE 4100"
+    },
+    {
+        "Title": "PROJECT I",
+        "Code": "BTE 4198"
+    },
+    {
+        "Title": "PROJECT II",
+        "Code": "BTE 4199"
+    },
+    {
+        "Title": "SOLID WASTE ENGINEERING",
+        "Code": "BTE 4215"
+    },
+    {
+        "Title": "WATER TREATMENT PLANT DESIGN",
+        "Code": "BTE 4217"
+    },
+    {
+        "Title": "FOOD PROCESS ENGINEERING",
+        "Code": "BTE 4220"
+    },
+    {
+        "Title": "BIOPROCESS FACILITY DESIGN AND REGULATORY",
+        "Code": "BTE 4222"
+    },
+    {
+        "Title": "COMPUTER SIMULATION IN BIOREACTOR SYSTEM",
+        "Code": "BTE 4233"
+    },
+    {
+        "Title": "ARTIFICIAL TISSUE ENGINEERING",
+        "Code": "BTE 4234"
+    },
+    {
+        "Title": "BIONANOTECHNOLOGY",
+        "Code": "BTE 4251"
+    },
+    {
+        "Title": "BIOLOGICAL REACTOR DESIGN AND ANALYSIS",
+        "Code": "BTE 4412"
+    },
+    {
+        "Title": "BIOPROCESS CONTROL & INSTRUMENTATION",
+        "Code": "BTE 4416"
+    },
+    {
+        "Title": "PROCESS PLANT DESIGN & SAFETY",
+        "Code": "BTE 4417"
+    },
+    {
+        "Title": "SEPARATION PROCESSES II",
+        "Code": "BTE 4481"
+    },
+    {
+        "Title": "BIOTECHNOLOGY ENGINEERING LAB I",
+        "Code": "BTEN 2181"
+    },
+    {
+        "Title": "BIOTECHNOLOGY ENGINEERING LAB I",
+        "Code": "BTEN 2181"
+    },
+    {
+        "Title": "BIOTECHNOLOGY ENGINEERING LAB II",
+        "Code": "BTEN 2182"
+    },
+    {
+        "Title": "INTRODUCTORY MICROBIOLOGY",
+        "Code": "BTEN 2210"
+    },
+    {
+        "Title": "ORGANIC CHEMISTRY FOR BIOLOGICAL ENGINEERING",
+        "Code": "BTEN 2211"
+    },
+    {
+        "Title": "THERMODYNAMICS",
+        "Code": "BTEN 2312"
+    },
+    {
+        "Title": "PRINCIPLES OF MASS AND ENERGY BALANCE",
+        "Code": "BTEN 2313"
+    },
+    {
+        "Title": "BIOCHEMICAL ENGINEERING FUNDAMENTALS",
+        "Code": "BTEN 2314"
+    },
+    {
+        "Title": "BIOCHEMISTRY",
+        "Code": "BTEN 2315"
+    },
+    {
+        "Title": "SEMINAR",
+        "Code": "BTEN 3100"
+    },
+    {
+        "Title": "BIOTECHNOLOGY ENGINEERING LAB III",
+        "Code": "BTEN 3183"
+    },
+    {
+        "Title": "BIOTECHNOLOGY ENGINEERING LAB III",
+        "Code": "BTEN 3183"
+    },
+    {
+        "Title": "BIOTECHNOLOGY ENGINEERING LAB IV",
+        "Code": "BTEN 3184"
+    },
+    {
+        "Title": "BIOTECHNOLOGY ENGINEERING LAB IV",
+        "Code": "BTEN 3184"
+    },
+    {
+        "Title": "SEPARATION PROCESSES II",
+        "Code": "BTEN 3222"
+    },
+    {
+        "Title": "PROCESS PLANT DESIGN & SAFETY",
+        "Code": "BTEN 3292"
+    },
+    {
+        "Title": "ENVIRONMENTAL ENGINEERING",
+        "Code": "BTEN 3316"
+    },
+    {
+        "Title": "REACTION ENGINEERING",
+        "Code": "BTEN 3317"
+    },
+    {
+        "Title": "MOLECULAR BIOLOGY AND GENETIC ENGINEERING",
+        "Code": "BTEN 3318"
+    },
+    {
+        "Title": "SEPARATION PROCESSES I",
+        "Code": "BTEN 3319"
+    },
+    {
+        "Title": "HEAT AND MASS TRANSFER",
+        "Code": "BTEN 3320"
+    },
+    {
+        "Title": "Integrated Design Project",
+        "Code": "BTEN 4300"
+    },
+    {
+        "Title": "BIOPROCESS CONTROL & INSTRUMENTATION",
+        "Code": "BTEN 4321"
+    },
+    {
+        "Title": "CELL AND TISSUE ENGINEERING",
+        "Code": "BTEN 4323"
+    },
+    {
+        "Title": "PROJECT I",
+        "Code": "BTEN 4398"
+    },
+    {
+        "Title": "ENGINEERING SURVEY PRACTICAL",
+        "Code": "CIVE 2112"
+    },
+    {
+        "Title": "CIVIL ENGINEERING DRAWING",
+        "Code": "CIVE 2114"
+    },
+    {
+        "Title": "CIVIL ENGINEERING LAB I",
+        "Code": "CIVE 2116"
+    },
+    {
+        "Title": "CIVIL ENGINEERING LAB II",
+        "Code": "CIVE 2121"
+    },
+    {
+        "Title": "CIVIL ENGINEERING LAB II",
+        "Code": "CIVE 2121"
+    },
+    {
+        "Title": "ENGINEERING SURVEY",
+        "Code": "CIVE 2211"
+    },
+    {
+        "Title": "WATER RESOURCES AND HYDROLOGY",
+        "Code": "CIVE 2223"
+    },
+    {
+        "Title": "WATER RESOURCES AND HYDROLOGY",
+        "Code": "CIVE 2223"
+    },
+    {
+        "Title": "CONSTRUCTION ENGINEERING",
+        "Code": "CIVE 2225"
+    },
+    {
+        "Title": "CONSTRUCTION ENGINEERING",
+        "Code": "CIVE 2225"
+    },
+    {
+        "Title": "FLUID MECHANICS",
+        "Code": "CIVE 2313"
+    },
+    {
+        "Title": "GEOLOGY AND SOIL MECHANICS",
+        "Code": "CIVE 2315"
+    },
+    {
+        "Title": "STRENGTH OF MATERIALS",
+        "Code": "CIVE 2317"
+    },
+    {
+        "Title": "CIVIL ENGINEERING MATERIALS",
+        "Code": "CIVE 2319"
+    },
+    {
+        "Title": "THEORY OF STRUCTURES",
+        "Code": "CIVE 2321"
+    },
+    {
+        "Title": "THEORY OF STRUCTURES",
+        "Code": "CIVE 2321"
+    },
+    {
+        "Title": "HYDRAULICS",
+        "Code": "CIVE 2323"
+    },
+    {
+        "Title": "HYDRAULICS",
+        "Code": "CIVE 2323"
+    },
+    {
+        "Title": "CIVIL ENGINEERING LAB III",
+        "Code": "CIVE 3112"
+    },
+    {
+        "Title": "CIVIL ENGINEERING LAB IV",
+        "Code": "CIVE 3122"
+    },
+    {
+        "Title": "SEMINAR",
+        "Code": "CIVE 3124"
+    },
+    {
+        "Title": "CONTRACT AND ESTIMATION",
+        "Code": "CIVE 3221"
+    },
+    {
+        "Title": "STRUCTURAL ANALYSIS",
+        "Code": "CIVE 3311"
+    },
+    {
+        "Title": "REINFORCED CONCRETE DESIGN I",
+        "Code": "CIVE 3313"
+    },
+    {
+        "Title": "GEOTECHNICAL ENGINEERING",
+        "Code": "CIVE 3315"
+    },
+    {
+        "Title": "REINFORCED CONCRETE DESIGN II",
+        "Code": "CIVE 3321"
+    },
+    {
+        "Title": "HIGHWAY AND TRAFFIC ENGINEERING",
+        "Code": "CIVE 3323"
+    },
+    {
+        "Title": "ENVIRONMENTAL ENGINEERING",
+        "Code": "CIVE 3325"
+    },
+    {
+        "Title": "STEEL AND TIMBER DESIGN",
+        "Code": "CIVE 3327"
+    },
+    {
+        "Title": "DESIGN LAB-STRUCTURAL ENGINEERING",
+        "Code": "CIVE 4130"
+    },
+    {
+        "Title": "FINAL YEAR PROJECT I",
+        "Code": "CIVE 4312"
+    },
+    {
+        "Title": "INTERGRATED DESIGN PROJECT",
+        "Code": "CIVE 4314"
+    },
+    {
+        "Title": "TRANSPORTATION ENGINEERING",
+        "Code": "CIVE 4391"
+    },
+    {
+        "Title": "ENGINEERING LAB II",
+        "Code": "ECE 1201"
+    },
+    {
+        "Title": "ELECTRONICS",
+        "Code": "ECE 1312"
+    },
+    {
+        "Title": "PROGRAMMING FOR ENGINEERS",
+        "Code": "ECE 1322"
+    },
+    {
+        "Title": "ELECTRONIC CIRCUITS",
+        "Code": "ECE 2133"
+    },
+    {
+        "Title": "MICROPROCESSORS AND INTERFACING",
+        "Code": "ECE 2211"
+    },
+    {
+        "Title": "SIGNALS AND SYSTEMS",
+        "Code": "ECE 2221"
+    },
+    {
+        "Title": "SIGNALS AND SYSTEMS",
+        "Code": "ECE 2221"
+    },
+    {
+        "Title": "ENGINEERING ELECTROMAGNETIC",
+        "Code": "ECE 2223"
+    },
+    {
+        "Title": "ENGINEERING ELECTROMAGNETIC",
+        "Code": "ECE 2223"
+    },
+    {
+        "Title": "COMMUNICATIONS ENGINEERING LAB I",
+        "Code": "ECE 3103"
+    },
+    {
+        "Title": "COMPUTER AND INFORMATION ENG. LAB I",
+        "Code": "ECE 3104"
+    },
+    {
+        "Title": "SEMINAR",
+        "Code": "ECE 3111"
+    },
+    {
+        "Title": "DIGITAL SIGNAL PROCESSING",
+        "Code": "ECE 3123"
+    },
+    {
+        "Title": "DIGITAL SIGNAL PROCESSING",
+        "Code": "ECE 3123"
+    },
+    {
+        "Title": "DATA COMMUNICATIONS",
+        "Code": "ECE 3141"
+    },
+    {
+        "Title": "COMPUTER COMMUNICATIONS AND NETWORKS",
+        "Code": "ECE 3144"
+    },
+    {
+        "Title": "ELECTRICAL AND COMPUTER ENGINEERING LAB III",
+        "Code": "ECE 3201"
+    },
+    {
+        "Title": "COMMUNICATION ENGINEERING",
+        "Code": "ECE 3211"
+    },
+    {
+        "Title": "COMPUTER ARCHITECTURE AND DESIGN",
+        "Code": "ECE 3213"
+    },
+    {
+        "Title": "CONTROL SYSTEMS",
+        "Code": "ECE 3232"
+    },
+    {
+        "Title": "CONTROL SYSTEMS",
+        "Code": "ECE 3232"
+    },
+    {
+        "Title": "DIGITAL COMMUNICATION",
+        "Code": "ECE 3242"
+    },
+    {
+        "Title": "MICROWAVE ENGINEERING",
+        "Code": "ECE 3243"
+    },
+    {
+        "Title": "COMPUTER ORGANIZATION AND ARCHITECTURE",
+        "Code": "ECE 3244"
+    },
+    {
+        "Title": "ELECTRICAL AND COMPUTER ENGINEERING LAB III",
+        "Code": "ECE 3301"
+    },
+    {
+        "Title": "ELECTRICAL AND COMPUTER ENGINEERING LAB III",
+        "Code": "ECE 3301"
+    },
+    {
+        "Title": "ELECTRICAL AND COMPUTER ENGINEERING LAB III",
+        "Code": "ECE 3301"
+    },
+    {
+        "Title": "MULTIMEDIA TECHNOLOGY",
+        "Code": "ECE 3311"
+    },
+    {
+        "Title": "INTEGRATED DESIGN PROJECT",
+        "Code": "ECE 4100"
+    },
+    {
+        "Title": "COMPUTER AND INFORMATION ENG. LABII",
+        "Code": "ECE 4102"
+    },
+    {
+        "Title": "COMPUTER AND INFORMATION ENG. LABII",
+        "Code": "ECE 4102"
+    },
+    {
+        "Title": "OPERATING SYSTEMS",
+        "Code": "ECE 4113"
+    },
+    {
+        "Title": "PROJECT I",
+        "Code": "ECE 4119"
+    },
+    {
+        "Title": "SOFTWARE ENGINEERING",
+        "Code": "ECE 4122"
+    },
+    {
+        "Title": "OPTICAL COMMUNICATIONS",
+        "Code": "ECE 4124"
+    },
+    {
+        "Title": "ANTENNAS AND WAVE PROPAGATION",
+        "Code": "ECE 4126"
+    },
+    {
+        "Title": "PROJECT I",
+        "Code": "ECE 4129"
+    },
+    {
+        "Title": "OBJECT-ORIENTED SOFTWARE ENGINEERING",
+        "Code": "ECE 4133"
+    },
+    {
+        "Title": "VLSI DESIGN",
+        "Code": "ECE 4141"
+    },
+    {
+        "Title": "HARDWARE DESCRIPTION LANGUAGE",
+        "Code": "ECE 4145"
+    },
+    {
+        "Title": "COMMUNICATION ENGINEERING LAB II",
+        "Code": "ECE 4203"
+    },
+    {
+        "Title": "COMMUNICATION ENGINEERING LAB II",
+        "Code": "ECE 4203"
+    },
+    {
+        "Title": "PROJECT II",
+        "Code": "ECE 4219"
+    },
+    {
+        "Title": "MOBILE COMMUNICATIONS",
+        "Code": "ECE 4221"
+    },
+    {
+        "Title": "PROJECT II",
+        "Code": "ECE 4229"
+    },
+    {
+        "Title": "DATA COMMUNICATIONS AND NETWORKING",
+        "Code": "ECE 4241"
+    },
+    {
+        "Title": "DATABASE SYSTEMS",
+        "Code": "ECE 4322"
+    },
+    {
+        "Title": "SELECTED TOPICS IN COMPUTER TECHNOLOGY",
+        "Code": "ECE 4327"
+    },
+    {
+        "Title": "SATELLITE COMMUNICATIONS SYSTEMS",
+        "Code": "ECE 4335"
+    },
+    {
+        "Title": "WIRELESS TECHNOLOGY",
+        "Code": "ECE 4338"
+    },
+    {
+        "Title": "SELECTED TOPICS IN COMMUNICATIONS ENGINEERING",
+        "Code": "ECE 4346"
+    },
+    {
+        "Title": "SEMINAR",
+        "Code": "ECIE 3100"
+    },
+    {
+        "Title": "COMPUTER AND INFORMATION ENGINEERING LAB I",
+        "Code": "ECIE 3101"
+    },
+    {
+        "Title": "COMPUTER AND INFORMATION ENGINEERING LAB I",
+        "Code": "ECIE 3101"
+    },
+    {
+        "Title": "INTEGRATED DESIGN PROJECT",
+        "Code": "ECIE 3300"
+    },
+    {
+        "Title": "DATA STRUCTURE AND ALGORITHM DESIGN",
+        "Code": "ECIE 3312"
+    },
+    {
+        "Title": "DATA AND COMMUNICATIONS SYSTEMS",
+        "Code": "ECIE 3313"
+    },
+    {
+        "Title": "Computer Architecture and  Systems Design",
+        "Code": "ECIE 3316"
+    },
+    {
+        "Title": "COMPUTER INFORMATION ENGINEERING LAB II",
+        "Code": "ECIE 4101"
+    },
+    {
+        "Title": "COMPUTER INFORMATION ENGINEERING LAB II",
+        "Code": "ECIE 4101"
+    },
+    {
+        "Title": "SOFTWARE ENGINEERING DESIGN",
+        "Code": "ECIE 4311"
+    },
+    {
+        "Title": "Multimedia Information Systems",
+        "Code": "ECIE 4312"
+    },
+    {
+        "Title": "COMPUTER COMMUNICATIONS AND NETWORKS",
+        "Code": "ECIE 4313"
+    },
+    {
+        "Title": "Operating System",
+        "Code": "ECIE 4314"
+    },
+    {
+        "Title": "VLSI DESIGN",
+        "Code": "ECIE 4343"
+    },
+    {
+        "Title": "DATABASE SYSTEMS",
+        "Code": "ECIE 4348"
+    },
+    {
+        "Title": "SELECTED TOPICS IN COMPUTER AND INFORMATION ENGINEERING",
+        "Code": "ECIE 4362"
+    },
+    {
+        "Title": "FINAL YEAR PROJECT I",
+        "Code": "ECIE 4398"
+    },
+    {
+        "Title": "FINAL YEAR PROJECT II",
+        "Code": "ECIE 4399"
+    },
+    {
+        "Title": "SEMINAR",
+        "Code": "ECOM 3100"
+    },
+    {
+        "Title": "COMMUNICATIONS ENGINEERING LAB I",
+        "Code": "ECOM 3101"
+    },
+    {
+        "Title": "COMMUNICATIONS ENGINEERING LAB I",
+        "Code": "ECOM 3101"
+    },
+    {
+        "Title": "INTEGRATED DESIGN PROJECT",
+        "Code": "ECOM 3300"
+    },
+    {
+        "Title": "FUNDAMENTAL OF COMMUNICATION ENGINEERING",
+        "Code": "ECOM 3312"
+    },
+    {
+        "Title": "FUNDAMENTAL OF COMMUNICATION ENGINEERING",
+        "Code": "ECOM 3312"
+    },
+    {
+        "Title": "MICROWAVE ENGINEERING",
+        "Code": "ECOM 3313"
+    },
+    {
+        "Title": "Digital Communication Systems Design",
+        "Code": "ECOM 3316"
+    },
+    {
+        "Title": "Communications Engineering Lab II",
+        "Code": "ECOM 4101"
+    },
+    {
+        "Title": "Communications Engineering Lab II",
+        "Code": "ECOM 4101"
+    },
+    {
+        "Title": "ANTENNAS AND WAVE PROPAGATION",
+        "Code": "ECOM 4311"
+    },
+    {
+        "Title": "OPTICAL COMMUNICATIONS",
+        "Code": "ECOM 4312"
+    },
+    {
+        "Title": "DATA COMMUNICATIONS AND NETWORKING",
+        "Code": "ECOM 4313"
+    },
+    {
+        "Title": "Satellite Communications Systems",
+        "Code": "ECOM 4344"
+    },
+    {
+        "Title": "Wireless Networking",
+        "Code": "ECOM 4347"
+    },
+    {
+        "Title": "Selected Topics in Communication Engineering",
+        "Code": "ECOM 4363"
+    },
+    {
+        "Title": "Final Year Project I",
+        "Code": "ECOM 4398"
+    },
+    {
+        "Title": "ELECTRICAL ENGINEERING LAB",
+        "Code": "EECE 1101"
+    },
+    {
+        "Title": "ELECTRICAL ENGINEERING LAB",
+        "Code": "EECE 1101"
+    },
+    {
+        "Title": "ELECTRICAL ENGINEERING LAB",
+        "Code": "EECE 1101"
+    },
+    {
+        "Title": "ELECTRICAL ENGINEERING LAB",
+        "Code": "EECE 1101"
+    },
+    {
+        "Title": "ELECTRICAL ENGINEERING LAB",
+        "Code": "EECE 1101"
+    },
+    {
+        "Title": "ELECTRICAL ENGINEERING LAB",
+        "Code": "EECE 1101"
+    },
+    {
+        "Title": "ELECTRICAL ENGINEERING LAB",
+        "Code": "EECE 1101"
+    },
+    {
+        "Title": "ELECTRICAL ENGINEERING LAB",
+        "Code": "EECE 1101"
+    },
+    {
+        "Title": "ELECTRICAL ENGINEERING LAB",
+        "Code": "EECE 1101"
+    },
+    {
+        "Title": "ELECTRICAL ENGINEERING LAB",
+        "Code": "EECE 1101"
+    },
+    {
+        "Title": "ELECTRICAL ENGINEERING LAB",
+        "Code": "EECE 1101"
+    },
+    {
+        "Title": "ELECTRICAL ENGINEERING LAB",
+        "Code": "EECE 1101"
+    },
+    {
+        "Title": "ELECTRIC CIRCUITS",
+        "Code": "EECE 1311"
+    },
+    {
+        "Title": "ELECTRIC CIRCUITS",
+        "Code": "EECE 1311"
+    },
+    {
+        "Title": "ELECTRIC CIRCUITS",
+        "Code": "EECE 1311"
+    },
+    {
+        "Title": "ELECTRIC CIRCUITS",
+        "Code": "EECE 1311"
+    },
+    {
+        "Title": "ELECTRIC CIRCUITS",
+        "Code": "EECE 1311"
+    },
+    {
+        "Title": "ELECTRIC CIRCUITS",
+        "Code": "EECE 1311"
+    },
+    {
+        "Title": "ELECTRIC CIRCUITS",
+        "Code": "EECE 1311"
+    },
+    {
+        "Title": "ELECTRIC CIRCUITS",
+        "Code": "EECE 1311"
+    },
+    {
+        "Title": "ELECTRIC CIRCUITS",
+        "Code": "EECE 1311"
+    },
+    {
+        "Title": "ELECTRIC CIRCUITS",
+        "Code": "EECE 1311"
+    },
+    {
+        "Title": "ELECTRONICS",
+        "Code": "EECE 1312"
+    },
+    {
+        "Title": "ELECTRONICS",
+        "Code": "EECE 1312"
+    },
+    {
+        "Title": "ELECTRONICS",
+        "Code": "EECE 1312"
+    },
+    {
+        "Title": "ELECTRONICS",
+        "Code": "EECE 1312"
+    },
+    {
+        "Title": "ELECTRONICS",
+        "Code": "EECE 1312"
+    },
+    {
+        "Title": "ELECTRONICS",
+        "Code": "EECE 1312"
+    },
+    {
+        "Title": "ELECTRONICS",
+        "Code": "EECE 1312"
+    },
+    {
+        "Title": "ELECTRONICS",
+        "Code": "EECE 1312"
+    },
+    {
+        "Title": "ELECTRONICS",
+        "Code": "EECE 1312"
+    },
+    {
+        "Title": "PROGRAMMING FOR ENGINEERS",
+        "Code": "EECE 1313"
+    },
+    {
+        "Title": "PROGRAMMING FOR ENGINEERS",
+        "Code": "EECE 1313"
+    },
+    {
+        "Title": "PROGRAMMING FOR ENGINEERS",
+        "Code": "EECE 1313"
+    },
+    {
+        "Title": "PROGRAMMING FOR ENGINEERS",
+        "Code": "EECE 1313"
+    },
+    {
+        "Title": "PROGRAMMING FOR ENGINEERS",
+        "Code": "EECE 1313"
+    },
+    {
+        "Title": "PROGRAMMING FOR ENGINEERS",
+        "Code": "EECE 1313"
+    },
+    {
+        "Title": "PROGRAMMING FOR ENGINEERS",
+        "Code": "EECE 1313"
+    },
+    {
+        "Title": "PROGRAMMING FOR ENGINEERS",
+        "Code": "EECE 1313"
+    },
+    {
+        "Title": "PROGRAMMING FOR ENGINEERS",
+        "Code": "EECE 1313"
+    },
+    {
+        "Title": "PROGRAMMING FOR ENGINEERS",
+        "Code": "EECE 1313"
+    },
+    {
+        "Title": "PROGRAMMING FOR ENGINEERS",
+        "Code": "EECE 1313"
+    },
+    {
+        "Title": "ELECTRICAL AND COMPUTER ENGINEERING LAB I",
+        "Code": "EECE 2101"
+    },
+    {
+        "Title": "ELECTRICAL AND COMPUTER ENGINEERING LAB I",
+        "Code": "EECE 2101"
+    },
+    {
+        "Title": "ELECTRICAL AND COMPUTER ENGINEERING LAB I",
+        "Code": "EECE 2101"
+    },
+    {
+        "Title": "ELECTRICAL AND COMPUTER ENGINEERING LAB II",
+        "Code": "EECE 2102"
+    },
+    {
+        "Title": "ELECTRICAL AND COMPUTER ENGINEERING LAB II",
+        "Code": "EECE 2102"
+    },
+    {
+        "Title": "ELECTRICAL AND COMPUTER ENGINEERING LAB II",
+        "Code": "EECE 2102"
+    },
+    {
+        "Title": "DIGITAL LOGIC DESIGN",
+        "Code": "EECE 2311"
+    },
+    {
+        "Title": "DIGITAL LOGIC DESIGN",
+        "Code": "EECE 2311"
+    },
+    {
+        "Title": "CIRCUIT ANALYSIS",
+        "Code": "EECE 2312"
+    },
+    {
+        "Title": "CIRCUIT ANALYSIS",
+        "Code": "EECE 2312"
+    },
+    {
+        "Title": "ELECTRONIC CIRCUITS",
+        "Code": "EECE 2313"
+    },
+    {
+        "Title": "ELECTRONIC CIRCUITS",
+        "Code": "EECE 2313"
+    },
+    {
+        "Title": "COMPUTER ORGANIZATION AND MICROPROCESSORS",
+        "Code": "EECE 2314"
+    },
+    {
+        "Title": "COMPUTER ORGANIZATION AND MICROPROCESSORS",
+        "Code": "EECE 2314"
+    },
+    {
+        "Title": "ENGINEERING ELECTROMAGNETICS",
+        "Code": "EECE 2315"
+    },
+    {
+        "Title": "ENGINEERING ELECTROMAGNETICS",
+        "Code": "EECE 2315"
+    },
+    {
+        "Title": "SIGNALS AND SYSTEMS",
+        "Code": "EECE 2316"
+    },
+    {
+        "Title": "SIGNALS AND SYSTEMS",
+        "Code": "EECE 2316"
+    },
+    {
+        "Title": "SIGNALS AND SYSTEMS",
+        "Code": "EECE 2316"
+    },
+    {
+        "Title": "SIGNALS AND SYSTEMS",
+        "Code": "EECE 2316"
+    },
+    {
+        "Title": "Electrical and Computer Eng. Lab-  III",
+        "Code": "EECE 3102"
+    },
+    {
+        "Title": "Electrical and Computer Eng. Lab-  III",
+        "Code": "EECE 3102"
+    },
+    {
+        "Title": "Electrical and Computer Eng. Lab-  III",
+        "Code": "EECE 3102"
+    },
+    {
+        "Title": "INTRODUCTION TO ELECTRICAL POWER SYSTEMS",
+        "Code": "EECE 3311"
+    },
+    {
+        "Title": "INTRODUCTION TO ELECTRICAL POWER SYSTEMS",
+        "Code": "EECE 3311"
+    },
+    {
+        "Title": "DIGITAL SIGNAL PROCESSING",
+        "Code": "EECE 3314"
+    },
+    {
+        "Title": "DIGITAL SIGNAL PROCESSING",
+        "Code": "EECE 3314"
+    },
+    {
+        "Title": "INSTRUMENTATION AND CONTROL",
+        "Code": "EECE 3315"
+    },
+    {
+        "Title": "INSTRUMENTATION AND CONTROL",
+        "Code": "EECE 3315"
+    },
+    {
+        "Title": "ENGINEERING ETHICS SAFETY AND ENVIRONMENT",
+        "Code": "GEN 4100"
+    },
+    {
+        "Title": "ENGINEERING ETHICS SAFETY AND ENVIRONMENT",
+        "Code": "GEN 4100"
+    },
+    {
+        "Title": "ENGINEERING ETHICS SAFETY AND ENVIRONMENT",
+        "Code": "GEN 4100"
+    },
+    {
+        "Title": "ENGINEERING ETHICS SAFETY AND ENVIRONMENT",
+        "Code": "GEN 4100"
+    },
+    {
+        "Title": "ENGINEERING ETHICS FROM ISLAMIC PERSPECTIVE",
+        "Code": "GENE 4300"
+    },
+    {
+        "Title": "ENGINEERING ETHICS FROM ISLAMIC PERSPECTIVE",
+        "Code": "GENE 4300"
+    },
+    {
+        "Title": "ENGINEERING ETHICS FROM ISLAMIC PERSPECTIVE",
+        "Code": "GENE 4300"
+    },
+    {
+        "Title": "ENGINEERING ETHICS FROM ISLAMIC PERSPECTIVE",
+        "Code": "GENE 4300"
+    },
+    {
+        "Title": "ENGINEERING ETHICS FROM ISLAMIC PERSPECTIVE",
+        "Code": "GENE 4300"
+    },
+    {
+        "Title": "ENGINEERING ETHICS FROM ISLAMIC PERSPECTIVE",
+        "Code": "GENE 4300"
+    },
+    {
+        "Title": "ENGINEERING DRAWING",
+        "Code": "MANU 1201"
+    },
+    {
+        "Title": "ENGINEERING DRAWING",
+        "Code": "MANU 1201"
+    },
+    {
+        "Title": "ENGINEERING DRAWING",
+        "Code": "MANU 1201"
+    },
+    {
+        "Title": "ENGINEERING DRAWING",
+        "Code": "MANU 1201"
+    },
+    {
+        "Title": "ENGINEERING DRAWING",
+        "Code": "MANU 1201"
+    },
+    {
+        "Title": "ENGINEERING DRAWING",
+        "Code": "MANU 1201"
+    },
+    {
+        "Title": "ENGINEERING DRAWING",
+        "Code": "MANU 1201"
+    },
+    {
+        "Title": "WORKSHOP TECHNOLOGY",
+        "Code": "MANU 1202"
+    },
+    {
+        "Title": "WORKSHOP TECHNOLOGY",
+        "Code": "MANU 1202"
+    },
+    {
+        "Title": "WORKSHOP TECHNOLOGY",
+        "Code": "MANU 1202"
+    },
+    {
+        "Title": "WORKSHOP TECHNOLOGY",
+        "Code": "MANU 1202"
+    },
+    {
+        "Title": "WORKSHOP TECHNOLOGY",
+        "Code": "MANU 1202"
+    },
+    {
+        "Title": "WORKSHOP TECHNOLOGY",
+        "Code": "MANU 1202"
+    },
+    {
+        "Title": "WORKSHOP TECHNOLOGY",
+        "Code": "MANU 1202"
+    },
+    {
+        "Title": "MANUFACTURING ENGINEERING LAB I",
+        "Code": "MANU 2101"
+    },
+    {
+        "Title": "MANUFACTURING ENGINEERING LAB I",
+        "Code": "MANU 2101"
+    },
+    {
+        "Title": "FUNDAMENTAL OF MANUFACTURING PROCESSES",
+        "Code": "MANU 2281"
+    },
+    {
+        "Title": "MANUFACTURING PROCESSES I",
+        "Code": "MANU 2311"
+    },
+    {
+        "Title": "MANUFACTURING PROCESSES II",
+        "Code": "MANU 2312"
+    },
+    {
+        "Title": "METROLOGY AND MEASUREMENT SYSTEMS",
+        "Code": "MANU 2313"
+    },
+    {
+        "Title": "MANUFACTURING PROCESSES",
+        "Code": "MANU 2381"
+    },
+    {
+        "Title": "MANUFACTURING PROCESSES",
+        "Code": "MANU 2381"
+    },
+    {
+        "Title": "SEMINAR",
+        "Code": "MANU 3100"
+    },
+    {
+        "Title": "MANUFACTURING ENGINEERING LAB II",
+        "Code": "MANU 3101"
+    },
+    {
+        "Title": "MANUFACTURING ENGINEERING LAB II",
+        "Code": "MANU 3101"
+    },
+    {
+        "Title": "INTERGRATED DESIGN PROJECT",
+        "Code": "MANU 3300"
+    },
+    {
+        "Title": "VIBRATION AND MECHANICS OF MACHINE",
+        "Code": "MANU 3311"
+    },
+    {
+        "Title": "DESIGN OF MACHINE COMPONENTS",
+        "Code": "MANU 3312"
+    },
+    {
+        "Title": "QUALITY CONTROL",
+        "Code": "MANU 3313"
+    },
+    {
+        "Title": "QUALITY CONTROL",
+        "Code": "MANU 3313"
+    },
+    {
+        "Title": "PROJECT & OPERATIONS MANAGEMENT",
+        "Code": "MANU 3314"
+    },
+    {
+        "Title": "PROJECT & OPERATIONS MANAGEMENT",
+        "Code": "MANU 3314"
+    },
+    {
+        "Title": "PROJECT & OPERATIONS MANAGEMENT",
+        "Code": "MANU 3314"
+    },
+    {
+        "Title": "PROJECT & OPERATIONS MANAGEMENT",
+        "Code": "MANU 3314"
+    },
+    {
+        "Title": "PRODUCTION TOOLING",
+        "Code": "MANU 3315"
+    },
+    {
+        "Title": "COMPUTER AIDED DESIGN AND MANUFACTURING",
+        "Code": "MANU 3316"
+    },
+    {
+        "Title": "ENGINEERING DESIGN AND PRODUCT DEVELOPMENT",
+        "Code": "MANU 3317"
+    },
+    {
+        "Title": "ENGINEERING DESIGN AND PRODUCT DEVELOPMENT",
+        "Code": "MANU 3317"
+    },
+    {
+        "Title": "ENGINEERING ECONOMICS AND MANAGEMENT",
+        "Code": "MANU 3318"
+    },
+    {
+        "Title": "ENGINEERING ECONOMICS AND MANAGEMENT",
+        "Code": "MANU 3318"
+    },
+    {
+        "Title": "ENGINEERING ECONOMICS AND MANAGEMENT",
+        "Code": "MANU 3318"
+    },
+    {
+        "Title": "ENGINEERING ECONOMICS AND MANAGEMENT",
+        "Code": "MANU 3318"
+    },
+    {
+        "Title": "MANUFACTURING ENGINEERING LAB III",
+        "Code": "MANU 4101"
+    },
+    {
+        "Title": "TECHNOLOGY ENTREPRENEURSHIP",
+        "Code": "MANU 4211"
+    },
+    {
+        "Title": "TECHNOLOGY ENTREPRENEURSHIP",
+        "Code": "MANU 4211"
+    },
+    {
+        "Title": "TECHNOLOGY ENTREPRENEURSHIP",
+        "Code": "MANU 4211"
+    },
+    {
+        "Title": "TECHNOLOGY ENTREPRENEURSHIP",
+        "Code": "MANU 4211"
+    },
+    {
+        "Title": "PRODUCTION PLANNING AND CONTROL",
+        "Code": "MANU 4312"
+    },
+    {
+        "Title": "MACHINE TOOLS",
+        "Code": "MANU 4313"
+    },
+    {
+        "Title": "MACHINE TOOLS",
+        "Code": "MANU 4313"
+    },
+    {
+        "Title": "MANUFACTURING AUTOMATION",
+        "Code": "MANU 4314"
+    },
+    {
+        "Title": "ERGONOMICS AND WORLSTATION DESIGN",
+        "Code": "MANU 4341"
+    },
+    {
+        "Title": "METAL CUTTING",
+        "Code": "MANU 4343"
+    },
+    {
+        "Title": "VALUE ANALYSIS AND VALUE ENGINEERING",
+        "Code": "MANU 4351"
+    },
+    {
+        "Title": "PROJECT I",
+        "Code": "MANU 4398"
+    },
+    {
+        "Title": "ENGINEERING MATHEMATICS I",
+        "Code": "MATH 1310"
+    },
+    {
+        "Title": "ENGINEERING MATHEMATICS I",
+        "Code": "MATH 1310"
+    },
+    {
+        "Title": "ENGINEERING MATHEMATICS I",
+        "Code": "MATH 1310"
+    },
+    {
+        "Title": "ENGINEERING MATHEMATICS I",
+        "Code": "MATH 1310"
+    },
+    {
+        "Title": "ENGINEERING MATHEMATICS I",
+        "Code": "MATH 1310"
+    },
+    {
+        "Title": "ENGINEERING MATHEMATICS I",
+        "Code": "MATH 1310"
+    },
+    {
+        "Title": "ENGINEERING MATHEMATICS I",
+        "Code": "MATH 1310"
+    },
+    {
+        "Title": "ENGINEERING MATHEMATICS I",
+        "Code": "MATH 1310"
+    },
+    {
+        "Title": "ENGINEERING MATHEMATICS I",
+        "Code": "MATH 1310"
+    },
+    {
+        "Title": "ENGINEERING MATHEMATICS I",
+        "Code": "MATH 1310"
+    },
+    {
+        "Title": "ENGINEERING MATHEMATICS I",
+        "Code": "MATH 1310"
+    },
+    {
+        "Title": "ENGINEERING MATHEMATICS I",
+        "Code": "MATH 1310"
+    },
+    {
+        "Title": "ENGINEERING MATHEMATICS I",
+        "Code": "MATH 1310"
+    },
+    {
+        "Title": "ENGINEERING MATHEMATICS II",
+        "Code": "MATH 1320"
+    },
+    {
+        "Title": "ENGINEERING MATHEMATICS II",
+        "Code": "MATH 1320"
+    },
+    {
+        "Title": "ENGINEERING MATHEMATICS II",
+        "Code": "MATH 1320"
+    },
+    {
+        "Title": "ENGINEERING MATHEMATICS II",
+        "Code": "MATH 1320"
+    },
+    {
+        "Title": "ENGINEERING MATHEMATICS II",
+        "Code": "MATH 1320"
+    },
+    {
+        "Title": "ENGINEERING MATHEMATICS II",
+        "Code": "MATH 1320"
+    },
+    {
+        "Title": "ENGINEERING MATHEMATICS II",
+        "Code": "MATH 1320"
+    },
+    {
+        "Title": "ENGINEERING MATHEMATICS II",
+        "Code": "MATH 1320"
+    },
+    {
+        "Title": "ENGINEERING MATHEMATICS II",
+        "Code": "MATH 1320"
+    },
+    {
+        "Title": "ENGINEERING MATHEMATICS II",
+        "Code": "MATH 1320"
+    },
+    {
+        "Title": "ENGINEERING MATHEMATICS II",
+        "Code": "MATH 1320"
+    },
+    {
+        "Title": "ENGINEERING MATHEMATICS II",
+        "Code": "MATH 1320"
+    },
+    {
+        "Title": "ENGINEERING MATHEMATICS II",
+        "Code": "MATH 1320"
+    },
+    {
+        "Title": "ENGINEERING MATHEMATICS II",
+        "Code": "MATH 1320"
+    },
+    {
+        "Title": "ENGINEERING MATHEMATICS II",
+        "Code": "MATH 1320"
+    },
+    {
+        "Title": "ENGINEERING MATHEMATICS II",
+        "Code": "MATH 1320"
+    },
+    {
+        "Title": "DIFFERENTIAL EQUATIONS",
+        "Code": "MATH 2310"
+    },
+    {
+        "Title": "DIFFERENTIAL EQUATIONS",
+        "Code": "MATH 2310"
+    },
+    {
+        "Title": "DIFFERENTIAL EQUATIONS",
+        "Code": "MATH 2310"
+    },
+    {
+        "Title": "DIFFERENTIAL EQUATIONS",
+        "Code": "MATH 2310"
+    },
+    {
+        "Title": "DIFFERENTIAL EQUATIONS",
+        "Code": "MATH 2310"
+    },
+    {
+        "Title": "DIFFERENTIAL EQUATIONS",
+        "Code": "MATH 2310"
+    },
+    {
+        "Title": "DIFFERENTIAL EQUATIONS",
+        "Code": "MATH 2310"
+    },
+    {
+        "Title": "DIFFERENTIAL EQUATIONS",
+        "Code": "MATH 2310"
+    },
+    {
+        "Title": "DIFFERENTIAL EQUATIONS",
+        "Code": "MATH 2310"
+    },
+    {
+        "Title": "DIFFERENTIAL EQUATIONS",
+        "Code": "MATH 2310"
+    },
+    {
+        "Title": "DIFFERENTIAL EQUATIONS",
+        "Code": "MATH 2310"
+    },
+    {
+        "Title": "DIFFERENTIAL EQUATIONS & STATISTICS",
+        "Code": "MATH 2320"
+    },
+    {
+        "Title": "DIFFERENTIAL EQUATIONS & STATISTICS",
+        "Code": "MATH 2320"
+    },
+    {
+        "Title": "DIFFERENTIAL EQUATIONS & STATISTICS",
+        "Code": "MATH 2320"
+    },
+    {
+        "Title": "DIFFERENTIAL EQUATIONS & STATISTICS",
+        "Code": "MATH 2320"
+    },
+    {
+        "Title": "COMPUTATIONAL METHODS AND STATISTICS",
+        "Code": "MATH 2330"
+    },
+    {
+        "Title": "COMPUTATIONAL METHODS AND STATISTICS",
+        "Code": "MATH 2330"
+    },
+    {
+        "Title": "COMPUTATIONAL METHODS AND STATISTICS",
+        "Code": "MATH 2330"
+    },
+    {
+        "Title": "COMPUTATIONAL METHODS AND STATISTICS",
+        "Code": "MATH 2330"
+    },
+    {
+        "Title": "COMPUTATIONAL METHODS AND STATISTICS",
+        "Code": "MATH 2330"
+    },
+    {
+        "Title": "COMPUTATIONAL METHODS AND STATISTICS",
+        "Code": "MATH 2330"
+    },
+    {
+        "Title": "COMPLEX ANALYSIS AND NUMERICAL METHODS",
+        "Code": "MATH 2340"
+    },
+    {
+        "Title": "PARTIAL DIFFERENTIAL EQUATIONS",
+        "Code": "MATH 2350"
+    },
+    {
+        "Title": "PARTIAL DIFFERENTIAL EQUATIONS",
+        "Code": "MATH 2350"
+    },
+    {
+        "Title": "MATERIALS ENGINEERING LAB I",
+        "Code": "MATR 2101"
+    },
+    {
+        "Title": "MATERIALS ENGINEERING LAB II",
+        "Code": "MATR 2102"
+    },
+    {
+        "Title": "TRANSPORT PHENOMENA",
+        "Code": "MATR 2215"
+    },
+    {
+        "Title": "FUNDAMENTALS OF MATERIALS ENGINEERING",
+        "Code": "MATR 2311"
+    },
+    {
+        "Title": "THERMODYNAMICS OF MATERIALS",
+        "Code": "MATR 2313"
+    },
+    {
+        "Title": "SOLID STATE ENGINEERING AND CRYSTALLOGRAPHY",
+        "Code": "MATR 2314"
+    },
+    {
+        "Title": "MATERIALS CHARACTERIZATION AND NON-DESTRUCTIVE TESTING",
+        "Code": "MATR 2316"
+    },
+    {
+        "Title": "MATERIALS SCIENCE AND ENGINEERING",
+        "Code": "MATR 2381"
+    },
+    {
+        "Title": "MATERIALS SCIENCE AND ENGINEERING",
+        "Code": "MATR 2381"
+    },
+    {
+        "Title": "MATERIALS SCIENCE AND ENGINEERING",
+        "Code": "MATR 2381"
+    },
+    {
+        "Title": "MATERIALS SCIENCE AND ENGINEERING",
+        "Code": "MATR 2381"
+    },
+    {
+        "Title": "MATERIALS SCIENCE AND ENGINEERING",
+        "Code": "MATR 2381"
+    },
+    {
+        "Title": "MATERIALS SCIENCE AND ENGINEERING",
+        "Code": "MATR 2381"
+    },
+    {
+        "Title": "SEMINAR",
+        "Code": "MATR 3100"
+    },
+    {
+        "Title": "MATERIALS ENGINEERING LAB III",
+        "Code": "MATR 3101"
+    },
+    {
+        "Title": "MATERIALS ENGINEERING LAB IV",
+        "Code": "MATR 3102"
+    },
+    {
+        "Title": "Integrated Design Project",
+        "Code": "MATR 3300"
+    },
+    {
+        "Title": "HEAT TREATMENT AND MICROSTRUCTURE CONTROL",
+        "Code": "MATR 3311"
+    },
+    {
+        "Title": "POLYMERS",
+        "Code": "MATR 3312"
+    },
+    {
+        "Title": "Extractive and Physical Metallurgy",
+        "Code": "MATR 3313"
+    },
+    {
+        "Title": "Ceramics",
+        "Code": "MATR 3314"
+    },
+    {
+        "Title": "MATERIALS SELECTION AND DESIGN",
+        "Code": "MATR 3315"
+    },
+    {
+        "Title": "Corrosion and Degradation",
+        "Code": "MATR 4311"
+    },
+    {
+        "Title": "Semiconductors",
+        "Code": "MATR 4312"
+    },
+    {
+        "Title": "Composites",
+        "Code": "MATR 4313"
+    },
+    {
+        "Title": "Nuclear Materials",
+        "Code": "MATR 4342"
+    },
+    {
+        "Title": "Failure Analysis of Materials",
+        "Code": "MATR 4358"
+    },
+    {
+        "Title": "FINAL YEAR PROJECT I",
+        "Code": "MATR 4398"
+    },
+    {
+        "Title": "SEMINAR",
+        "Code": "MCT 3149"
+    },
+    {
+        "Title": "MECHATRONICS ENGINEERING LAB II",
+        "Code": "MCT 3159"
+    },
+    {
+        "Title": "MECHATRONICS ENGINEERING LAB II",
+        "Code": "MCT 3159"
+    },
+    {
+        "Title": "DESIGN OF MACHINE ELEMENTS",
+        "Code": "MCT 3214"
+    },
+    {
+        "Title": "DESIGN OF MACHINE ELEMENTS",
+        "Code": "MCT 3214"
+    },
+    {
+        "Title": "INSTRUMENTATION AND CONTROL",
+        "Code": "MCT 3224"
+    },
+    {
+        "Title": "ANALOG ELECTRONICS",
+        "Code": "MCT 3234"
+    },
+    {
+        "Title": "MICROPROCESSOR BASED SYSTEMS",
+        "Code": "MCT 3235"
+    },
+    {
+        "Title": "MICROPROCESSOR BASED SYSTEMS",
+        "Code": "MCT 3235"
+    },
+    {
+        "Title": "CONTROL SYSTEM DESIGN",
+        "Code": "MCT 3325"
+    },
+    {
+        "Title": "CONTROL SYSTEM DESIGN",
+        "Code": "MCT 3325"
+    },
+    {
+        "Title": "ENGINEERING SYSTEMS RELIABILITY",
+        "Code": "MCT 3341"
+    },
+    {
+        "Title": "ENGINEERING SYSTEMS RELIABILITY",
+        "Code": "MCT 3341"
+    },
+    {
+        "Title": "SYSTEMS DYNAMICS AND CONTROL",
+        "Code": "MCT 3423"
+    },
+    {
+        "Title": "INTEGRATED DESIGN PROJECT",
+        "Code": "MCT 4100"
+    },
+    {
+        "Title": "MECHATRONICS LAB III",
+        "Code": "MCT 4159"
+    },
+    {
+        "Title": "MECHATRONICS LAB III",
+        "Code": "MCT 4159"
+    },
+    {
+        "Title": "PROJECT 1",
+        "Code": "MCT 4198"
+    },
+    {
+        "Title": "ROBOTICS",
+        "Code": "MCT 4215"
+    },
+    {
+        "Title": "ROBOTICS",
+        "Code": "MCT 4215"
+    },
+    {
+        "Title": "PROJECT II",
+        "Code": "MCT 4299"
+    },
+    {
+        "Title": "PROJECT II",
+        "Code": "MCT 4299"
+    },
+    {
+        "Title": "MICROELECTROMECHANICAL SYSTEMS",
+        "Code": "MCT 4312"
+    },
+    {
+        "Title": "AUTONOMOUS ROBOTIC SYSTEMS",
+        "Code": "MCT 4314"
+    },
+    {
+        "Title": "MODERN CONTROL SYSTEMS",
+        "Code": "MCT 4321"
+    },
+    {
+        "Title": "INTELLIGENT SYSTEMS",
+        "Code": "MCT 4322"
+    },
+    {
+        "Title": "MACHINE VISION",
+        "Code": "MCT 4323"
+    },
+    {
+        "Title": "MACHINE VISION",
+        "Code": "MCT 4323"
+    },
+    {
+        "Title": "POWER ELECTRONICS AND DRIVES",
+        "Code": "MCT 4333"
+    },
+    {
+        "Title": "POWER ELECTRONICS AND DRIVES",
+        "Code": "MCT 4333"
+    },
+    {
+        "Title": "EMBEDDED SYSTEM DESIGN",
+        "Code": "MCT 4334"
+    },
+    {
+        "Title": "ELECTRONICS INSTRUMENTATION DESIGN",
+        "Code": "MCT 4337"
+    },
+    {
+        "Title": "SIGNAL PROCESSING AND COMMUNICATIONS",
+        "Code": "MCT 4338"
+    },
+    {
+        "Title": "SIGNAL PROCESSING AND COMMUNICATIONS",
+        "Code": "MCT 4338"
+    },
+    {
+        "Title": "SIGNAL PROCESSING AND COMMUNICATIONS",
+        "Code": "MCT 4338"
+    },
+    {
+        "Title": "MECHATRONICS WORKSHOP",
+        "Code": "MCTE 2101"
+    },
+    {
+        "Title": "MECHATRONICS WORKSHOP",
+        "Code": "MCTE 2101"
+    },
+    {
+        "Title": "MECHATRONICS ENGINEERING LAB I",
+        "Code": "MCTE 2102"
+    },
+    {
+        "Title": "MECHATRONICS ENGINEERING LAB I",
+        "Code": "MCTE 2102"
+    },
+    {
+        "Title": "SIGNAL AND SYSTEMS ANALYSIS",
+        "Code": "MCTE 2311"
+    },
+    {
+        "Title": "SIGNAL AND SYSTEMS ANALYSIS",
+        "Code": "MCTE 2311"
+    },
+    {
+        "Title": "ELECTRICAL MACHINES",
+        "Code": "MCTE 2331"
+    },
+    {
+        "Title": "ELECTRICAL MACHINES",
+        "Code": "MCTE 2331"
+    },
+    {
+        "Title": "DIGITAL SYSTEM AND MICROPROCESSOR",
+        "Code": "MCTE 2332"
+    },
+    {
+        "Title": "DIGITAL SYSTEM AND MICROPROCESSOR",
+        "Code": "MCTE 2332"
+    },
+    {
+        "Title": "INSTRUMENTATION AND MEASUREMENTS",
+        "Code": "MCTE 2333"
+    },
+    {
+        "Title": "INSTRUMENTATION AND MEASUREMENTS",
+        "Code": "MCTE 2333"
+    },
+    {
+        "Title": "THEORY OF MACHINES AND MECHANISMS",
+        "Code": "MCTE 2351"
+    },
+    {
+        "Title": "THEORY OF MACHINES AND MECHANISMS",
+        "Code": "MCTE 2351"
+    },
+    {
+        "Title": "SEMINAR",
+        "Code": "MCTE 3100"
+    },
+    {
+        "Title": "MECHATRONICS ENGINEERING LAB II",
+        "Code": "MCTE 3103"
+    },
+    {
+        "Title": "MECHATRONICS ENGINEERING LAB II",
+        "Code": "MCTE 3103"
+    },
+    {
+        "Title": "MECHATRONICS INTERFACING LAB",
+        "Code": "MCTE 3104"
+    },
+    {
+        "Title": "MECHATRONICS INTERFACING LAB",
+        "Code": "MCTE 3104"
+    },
+    {
+        "Title": "ENGINERING DESIGN",
+        "Code": "MCTE 3271"
+    },
+    {
+        "Title": "ENGINERING DESIGN",
+        "Code": "MCTE 3271"
+    },
+    {
+        "Title": "INTERGRATED DESIGN PROJECT",
+        "Code": "MCTE 3300"
+    },
+    {
+        "Title": "INTERGRATED DESIGN PROJECT",
+        "Code": "MCTE 3300"
+    },
+    {
+        "Title": "INTERGRATED DESIGN PROJECT",
+        "Code": "MCTE 3300"
+    },
+    {
+        "Title": "INTERGRATED DESIGN PROJECT",
+        "Code": "MCTE 3300"
+    },
+    {
+        "Title": "CONTROL SYSTEMS I",
+        "Code": "MCTE 3312"
+    },
+    {
+        "Title": "CONTROL SYSTEMS I",
+        "Code": "MCTE 3312"
+    },
+    {
+        "Title": "CONTROL SYSTEMS II",
+        "Code": "MCTE 3313"
+    },
+    {
+        "Title": "CONTROL SYSTEMS II",
+        "Code": "MCTE 3313"
+    },
+    {
+        "Title": "DESIGN OF MACHINE ELEMENTS",
+        "Code": "MCTE 3352"
+    },
+    {
+        "Title": "DESIGN OF MACHINE ELEMENTS",
+        "Code": "MCTE 3352"
+    },
+    {
+        "Title": "ENGINEERING SYSTEM RELIABILITY",
+        "Code": "MCTE 3372"
+    },
+    {
+        "Title": "ENGINEERING SYSTEM RELIABILITY",
+        "Code": "MCTE 3372"
+    },
+    {
+        "Title": "INDUSTRIAL AUTOMATION",
+        "Code": "MCTE 3373"
+    },
+    {
+        "Title": "INDUSTRIAL AUTOMATION",
+        "Code": "MCTE 3373"
+    },
+    {
+        "Title": "MECHATRONICS LAB III",
+        "Code": "MCTE 4105"
+    },
+    {
+        "Title": "MECHATRONICS LAB III",
+        "Code": "MCTE 4105"
+    },
+    {
+        "Title": "Modern Control Design",
+        "Code": "MCTE 4321"
+    },
+    {
+        "Title": "Machine Vision",
+        "Code": "MCTE 4323"
+    },
+    {
+        "Title": "POWER ELECTRONICS AND DRIVES",
+        "Code": "MCTE 4334"
+    },
+    {
+        "Title": "POWER ELECTRONICS AND DRIVES",
+        "Code": "MCTE 4334"
+    },
+    {
+        "Title": "Electronic Instrumentation and Design",
+        "Code": "MCTE 4341"
+    },
+    {
+        "Title": "EMBEDDED SYSTEM DESIGN",
+        "Code": "MCTE 4342"
+    },
+    {
+        "Title": "Microelectromechanical Systems",
+        "Code": "MCTE 4345"
+    },
+    {
+        "Title": "Robotics",
+        "Code": "MCTE 4352"
+    },
+    {
+        "Title": "Robotics",
+        "Code": "MCTE 4352"
+    },
+    {
+        "Title": "Autonomous Robotic Systems",
+        "Code": "MCTE 4361"
+    },
+    {
+        "Title": "Project I",
+        "Code": "MCTE 4398"
+    },
+    {
+        "Title": "STATICS",
+        "Code": "MEC 1391"
+    },
+    {
+        "Title": "STATICS",
+        "Code": "MEC 1391"
+    },
+    {
+        "Title": "DYNAMICS",
+        "Code": "MEC 1392"
+    },
+    {
+        "Title": "DYNAMICS",
+        "Code": "MEC 1392"
+    },
+    {
+        "Title": "THERMODYNAMICS",
+        "Code": "MEC 2601"
+    },
+    {
+        "Title": "INTRODUCTION TO AUTOMOTIVE ENGINEERING",
+        "Code": "MEC 2621"
+    },
+    {
+        "Title": "AUTOMOTIVE ENGINEERING LAB II",
+        "Code": "MEC 2630"
+    },
+    {
+        "Title": "AEROSPACE ENGINEERING LAB II",
+        "Code": "MEC 2701"
+    },
+    {
+        "Title": "FLUID MECHANICS",
+        "Code": "MEC 2910"
+    },
+    {
+        "Title": "MECHANICS OF MATERIALS",
+        "Code": "MEC 2915"
+    },
+    {
+        "Title": "THERMOFLUID ENGINEERING",
+        "Code": "MEC 2920"
+    },
+    {
+        "Title": "THERMOFLUID ENGINEERING",
+        "Code": "MEC 2920"
+    },
+    {
+        "Title": "STRUCTURAL DYNAMICS",
+        "Code": "MEC 3603"
+    },
+    {
+        "Title": "MACHINE DESIGN",
+        "Code": "MEC 3605"
+    },
+    {
+        "Title": "HEAT TRANSFER",
+        "Code": "MEC 3609"
+    },
+    {
+        "Title": "AUTOMOTIVE ENGINEERING LAB III",
+        "Code": "MEC 3610"
+    },
+    {
+        "Title": "INTERNAL COMBUSTION ENGINES",
+        "Code": "MEC 3621"
+    },
+    {
+        "Title": "POWER TRAIN SYSTEMS",
+        "Code": "MEC 3623"
+    },
+    {
+        "Title": "AUTOMOTIVE ENGINEERING LAB IV",
+        "Code": "MEC 3630"
+    },
+    {
+        "Title": "AEROSPACE PROPULSION",
+        "Code": "MEC 3740"
+    },
+    {
+        "Title": "CONTROL SYSTEMS",
+        "Code": "MEC 3825"
+    },
+    {
+        "Title": "INTEGRATED DESIGN PROJECT",
+        "Code": "MEC 4100"
+    },
+    {
+        "Title": "KINEMATICS AND DYNAMICS OF MACHINERY",
+        "Code": "MEC 4607"
+    },
+    {
+        "Title": "AUTOMOTIVE ENGINEERING LAB V",
+        "Code": "MEC 4610"
+    },
+    {
+        "Title": "VEHICLE ELECTRONICS & INSTRUMENTATION SYSTEMS",
+        "Code": "MEC 4627"
+    },
+    {
+        "Title": "VEHICLE STRUCTURAL DESIGN & MATERIALS SELECTION",
+        "Code": "MEC 4630"
+    },
+    {
+        "Title": "AUTOMOTIVE STYLING METHODOLOGIES",
+        "Code": "MEC 4671"
+    },
+    {
+        "Title": "VEHICLE DYNAMICS AND CHASSIS SYSTEMS",
+        "Code": "MEC 4674"
+    },
+    {
+        "Title": "AUTOMOTIVE HEATING AND AIR CONDITIONING",
+        "Code": "MEC 4678"
+    },
+    {
+        "Title": "FLIGHT DYNAMICS AND CONTROL",
+        "Code": "MEC 4730"
+    },
+    {
+        "Title": "SPACE MECHANICS",
+        "Code": "MEC 4745"
+    },
+    {
+        "Title": "SPACECRAFT DYNAMICS AND CONTROL",
+        "Code": "MEC 4755"
+    },
+    {
+        "Title": "AEROSPACE ENGINEERING LAB IV",
+        "Code": "MEC 4760"
+    },
+    {
+        "Title": "AEROSPACE VEHICLE DESIGN",
+        "Code": "MEC 4789"
+    },
+    {
+        "Title": "COMPOSITE STRUCTURES",
+        "Code": "MEC 4861"
+    },
+    {
+        "Title": "FINITE ELEMENT ANALYSIS",
+        "Code": "MEC 4864"
+    },
+    {
+        "Title": "RENEWABLE ENERGY",
+        "Code": "MEC 4866"
+    },
+    {
+        "Title": "NONDESTRUCTIVE EVALUATION OF STRUCTURES",
+        "Code": "MEC 4867"
+    },
+    {
+        "Title": "MECHANICAL VIBRATIONS",
+        "Code": "MEC 4869"
+    },
+    {
+        "Title": "PROJECT I",
+        "Code": "MEC 4898"
+    },
+    {
+        "Title": "PROJECT II",
+        "Code": "MEC 4899"
+    },
+    {
+        "Title": "STATICS",
+        "Code": "MECH 1301"
+    },
+    {
+        "Title": "STATICS",
+        "Code": "MECH 1301"
+    },
+    {
+        "Title": "STATICS",
+        "Code": "MECH 1301"
+    },
+    {
+        "Title": "STATICS",
+        "Code": "MECH 1301"
+    },
+    {
+        "Title": "STATICS",
+        "Code": "MECH 1301"
+    },
+    {
+        "Title": "STATICS",
+        "Code": "MECH 1301"
+    },
+    {
+        "Title": "STATICS",
+        "Code": "MECH 1301"
+    },
+    {
+        "Title": "STATICS",
+        "Code": "MECH 1301"
+    },
+    {
+        "Title": "STATICS",
+        "Code": "MECH 1301"
+    },
+    {
+        "Title": "STATICS",
+        "Code": "MECH 1301"
+    },
+    {
+        "Title": "STATICS",
+        "Code": "MECH 1301"
+    },
+    {
+        "Title": "DYNAMICS",
+        "Code": "MECH 1302"
+    },
+    {
+        "Title": "DYNAMICS",
+        "Code": "MECH 1302"
+    },
+    {
+        "Title": "DYNAMICS",
+        "Code": "MECH 1302"
+    },
+    {
+        "Title": "DYNAMICS",
+        "Code": "MECH 1302"
+    },
+    {
+        "Title": "DYNAMICS",
+        "Code": "MECH 1302"
+    },
+    {
+        "Title": "DYNAMICS",
+        "Code": "MECH 1302"
+    },
+    {
+        "Title": "DYNAMICS",
+        "Code": "MECH 1302"
+    },
+    {
+        "Title": "AUTOMOTIVE ENGINEERING LAB I",
+        "Code": "MECH 2118"
+    },
+    {
+        "Title": "AUTOMOTIVE ENGINEERING LAB II",
+        "Code": "MECH 2119"
+    },
+    {
+        "Title": "INTRODUCTION TO AUTOMOTIVE ENGINEERING",
+        "Code": "MECH 2211"
+    },
+    {
+        "Title": "THERMODYNAMICS",
+        "Code": "MECH 2310"
+    },
+    {
+        "Title": "DYNAMICS OF MACHINERY",
+        "Code": "MECH 2312"
+    },
+    {
+        "Title": "THERMAL SCIENCE",
+        "Code": "MECH 2322"
+    },
+    {
+        "Title": "PRINCIPLES OF FLIGHT",
+        "Code": "MECH 2324"
+    },
+    {
+        "Title": "AEROSPACE DYNAMICS",
+        "Code": "MECH 2326"
+    },
+    {
+        "Title": "AEROSPACE ENGINEERING LAB I",
+        "Code": "MECH 2328"
+    },
+    {
+        "Title": "FLUID MECHANICS",
+        "Code": "MECH 2340"
+    },
+    {
+        "Title": "FLUID MECHANICS",
+        "Code": "MECH 2340"
+    },
+    {
+        "Title": "FLUID MECHANICS",
+        "Code": "MECH 2340"
+    },
+    {
+        "Title": "MECHANICS OF MATERIALS",
+        "Code": "MECH 2342"
+    },
+    {
+        "Title": "MECHANICS OF MATERIALS",
+        "Code": "MECH 2342"
+    },
+    {
+        "Title": "MECHANICS OF MATERIALS",
+        "Code": "MECH 2342"
+    },
+    {
+        "Title": "MECHANICS OF MATERIALS",
+        "Code": "MECH 2342"
+    },
+    {
+        "Title": "THERMOFLUID ENGINEERING",
+        "Code": "MECH 2344"
+    },
+    {
+        "Title": "THERMOFLUID ENGINEERING",
+        "Code": "MECH 2344"
+    },
+    {
+        "Title": "SEMINAR",
+        "Code": "MECH 3100"
+    },
+    {
+        "Title": "Automotive Engineering Lab III",
+        "Code": "MECH 3118"
+    },
+    {
+        "Title": "AEROSPACE ENGINEERING LAB II",
+        "Code": "MECH 3128"
+    },
+    {
+        "Title": "INSTRUMENTATIONS AND MEASUREMENTS",
+        "Code": "MECH 3211"
+    },
+    {
+        "Title": "SPACE MECHANICS",
+        "Code": "MECH 3220"
+    },
+    {
+        "Title": "INTEGRATED DESIGN PROJECT (IDP)",
+        "Code": "MECH 3300"
+    },
+    {
+        "Title": "INTEGRATED DESIGN PROJECT (IDP)",
+        "Code": "MECH 3300"
+    },
+    {
+        "Title": "HEAT TRANSFER",
+        "Code": "MECH 3310"
+    },
+    {
+        "Title": "MACHINE DESIGN",
+        "Code": "MECH 3312"
+    },
+    {
+        "Title": "MACHINE DESIGN",
+        "Code": "MECH 3312"
+    },
+    {
+        "Title": "Internal Combustion Engines",
+        "Code": "MECH 3313"
+    },
+    {
+        "Title": "Vehicle Structures Design",
+        "Code": "MECH 3314"
+    },
+    {
+        "Title": "AIRCRAFTS STRUCTURES I",
+        "Code": "MECH 3321"
+    },
+    {
+        "Title": "AERODYNAMICS I",
+        "Code": "MECH 3322"
+    },
+    {
+        "Title": "INSTRUMENTATION AND AVIONICS",
+        "Code": "MECH 3323"
+    },
+    {
+        "Title": "AEROSPACE PROPULSION",
+        "Code": "MECH 3324"
+    },
+    {
+        "Title": "AIRCRAFT STRUCTURES II",
+        "Code": "MECH 3325"
+    },
+    {
+        "Title": "AERODYNAMICS II",
+        "Code": "MECH 3326"
+    },
+    {
+        "Title": "CONTROL SYSTEMS",
+        "Code": "MECH 3340"
+    },
+    {
+        "Title": "Automotive Engineering Lab IV",
+        "Code": "MECH 4119"
+    },
+    {
+        "Title": "Aerospace Engineering Lab III",
+        "Code": "MECH 4128"
+    },
+    {
+        "Title": "SPACECRAFT DYNAMICS AND CONTROL",
+        "Code": "MECH 4224"
+    },
+    {
+        "Title": "Vehicle Electrical and Electronics Systems",
+        "Code": "MECH 4310"
+    },
+    {
+        "Title": "Mechanical Vibrations",
+        "Code": "MECH 4311"
+    },
+    {
+        "Title": "Vehicle Dynamics and Chassis Systems",
+        "Code": "MECH 4312"
+    },
+    {
+        "Title": "Power Train Systems Design",
+        "Code": "MECH 4313"
+    },
+    {
+        "Title": "FLIGHT DYNAMICS AND CONTROL",
+        "Code": "MECH 4322"
+    },
+    {
+        "Title": "Aerospace Vehicle Design",
+        "Code": "MECH 4326"
+    },
+    {
+        "Title": "FINITE ELEMENT ANALYSIS",
+        "Code": "MECH 4380"
+    },
+    {
+        "Title": "RENEWABLE ENERGY",
+        "Code": "MECH 4384"
+    },
+    {
+        "Title": "NONDESTRUCTIVE EVALUATION OF STRUCTURES",
+        "Code": "MECH 4386"
+    },
+    {
+        "Title": "COMPOSITE STRUCTURES",
+        "Code": "MECH 4387"
+    },
+    {
+        "Title": "PROJECT I",
+        "Code": "MECH 4398"
+    },
+    {
+        "Title": "WORKSHOP TECHNOLOGY",
+        "Code": "MME 1203"
+    },
+    {
+        "Title": "WORKSHOP TECHNOLOGY",
+        "Code": "MME 1203"
+    },
+    {
+        "Title": "ENGINEERING DRAWING",
+        "Code": "MME 2102"
+    },
+    {
+        "Title": "MANUFACTURING PROCESSES II",
+        "Code": "MME 2103"
+    },
+    {
+        "Title": "MANUFACTURING ENGINEERING LAB II",
+        "Code": "MME 2132"
+    },
+    {
+        "Title": "MANUFACTURING ENGINEERING LAB II",
+        "Code": "MME 2132"
+    },
+    {
+        "Title": "THERMODYNAMICS OF MATERIALS",
+        "Code": "MME 2203"
+    },
+    {
+        "Title": "THERMODYNAMICS OF MATERIALS",
+        "Code": "MME 2203"
+    },
+    {
+        "Title": "MATERIALS SCIENCE AND ENGINEERING",
+        "Code": "MME 2503"
+    },
+    {
+        "Title": "VIBRATION AND MECHANICS OF MACHINE",
+        "Code": "MME 3106"
+    },
+    {
+        "Title": "VIBRATION AND MECHANICS OF MACHINE",
+        "Code": "MME 3106"
+    },
+    {
+        "Title": "QUALITY CONTROL",
+        "Code": "MME 3108"
+    },
+    {
+        "Title": "QUALITY CONTROL",
+        "Code": "MME 3108"
+    },
+    {
+        "Title": "COMPUTER AIDED DESIGN AND MANUFACTURING(CAD/CAM)",
+        "Code": "MME 3109"
+    },
+    {
+        "Title": "PRODUCTION TOOLING",
+        "Code": "MME 3111"
+    },
+    {
+        "Title": "MANUFACTURING AUTOMATION",
+        "Code": "MME 3112"
+    },
+    {
+        "Title": "MANUFACTURING ENGINEERING  LAB III",
+        "Code": "MME 3133"
+    },
+    {
+        "Title": "MANUFACTURING ENGINEERING  LAB III",
+        "Code": "MME 3133"
+    },
+    {
+        "Title": "HEAT TREATMENT",
+        "Code": "MME 3211"
+    },
+    {
+        "Title": "MATERIALS ENGINEERING LAB III",
+        "Code": "MME 3223"
+    },
+    {
+        "Title": "MATERIALS ENGINEERING LAB IV",
+        "Code": "MME 3224"
+    },
+    {
+        "Title": "ENGINEERING MANAGEMENT I",
+        "Code": "MME 3271"
+    },
+    {
+        "Title": "CERAMICS AND GLASSES",
+        "Code": "MME 3307"
+    },
+    {
+        "Title": "MACHINE TOOLS",
+        "Code": "MME 3313"
+    },
+    {
+        "Title": "MACHINE TOOLS",
+        "Code": "MME 3313"
+    },
+    {
+        "Title": "PRODUCTION PLANNING AND CONTROL",
+        "Code": "MME 4114"
+    },
+    {
+        "Title": "COMPUTER INTERGRATED MANUFACTURING (CIM)",
+        "Code": "MME 4115"
+    },
+    {
+        "Title": "COMPUTER INTERGRATED MANUFACTURING (CIM)",
+        "Code": "MME 4115"
+    },
+    {
+        "Title": "PRODUCT DESIGN AND DEVELOPMENT",
+        "Code": "MME 4116"
+    },
+    {
+        "Title": "PRODUCT DESIGN AND DEVELOPMENT",
+        "Code": "MME 4116"
+    },
+    {
+        "Title": "PRODUCT DESIGN AND DEVELOPMENT",
+        "Code": "MME 4116"
+    },
+    {
+        "Title": "ERGONOMICS AND WORKSTATION DESIGN",
+        "Code": "MME 4132"
+    },
+    {
+        "Title": "MANUFACTURING ENGINEERING LAB IV",
+        "Code": "MME 4134"
+    },
+    {
+        "Title": "MANUFACTURING ENGINEERING LAB IV",
+        "Code": "MME 4134"
+    },
+    {
+        "Title": "METAL CUTTING",
+        "Code": "MME 4141"
+    },
+    {
+        "Title": "MICROMANUFACTURING TECHNOLOGY",
+        "Code": "MME 4142"
+    },
+    {
+        "Title": "VALUE ANALYSIS AND VALUE ENGINEERING",
+        "Code": "MME 4157"
+    },
+    {
+        "Title": "PROJECT I",
+        "Code": "MME 4198"
+    },
+    {
+        "Title": "PROJECT I",
+        "Code": "MME 4198"
+    },
+    {
+        "Title": "PROJECT II",
+        "Code": "MME 4199"
+    },
+    {
+        "Title": "PROJECT II",
+        "Code": "MME 4199"
+    },
+    {
+        "Title": "NUCLEAR MATERIALS",
+        "Code": "MME 4210"
+    },
+    {
+        "Title": "POLYMER PROCESSING",
+        "Code": "MME 4212"
+    },
+    {
+        "Title": "BIOMATERIALS",
+        "Code": "MME 4214"
+    },
+    {
+        "Title": "SEMICONDUCTOR MATERIALS AND PROCESSING",
+        "Code": "MME 4215"
+    },
+    {
+        "Title": "FAILURE ANALYSIS OF MATERIALS",
+        "Code": "MME 4252"
+    },
+    {
+        "Title": "SURFACE ENGINEERING AND TRIBOLOGY",
+        "Code": "MME 4254"
+    },
+    {
+        "Title": "ENGINEERING MANAGEMENT II",
+        "Code": "MME 4272"
+    },
+    {
+        "Title": "MATERIALS SELECTION AND DESIGN",
+        "Code": "MME 4316"
+    },
+    {
+        "Title": "ENGINEERING CALCULUS I",
+        "Code": "MTH 1112"
+    },
+    {
+        "Title": "ENGINEERING CALCULUS II",
+        "Code": "MTH 1212"
+    },
+    {
+        "Title": "COMPUTATIONAL METHODS AND STATISTICS",
+        "Code": "MTH 2212"
+    },
+    {
+        "Title": "COMPUTATIONAL METHODS AND STATISTICS",
+        "Code": "MTH 2212"
+    },
+    {
+        "Title": "COMPUTATIONAL METHODS AND STATISTICS",
+        "Code": "MTH 2212"
+    },
+    {
+        "Title": "LINEAR ALGEBRA & DIFFERENTIAL EQUATIONS",
+        "Code": "MTH 2311"
+    },
+    {
+        "Title": "COMPLEX ANALYSIS AND NUMERICAL METHODS",
+        "Code": "MTH 2313"
+    },
+    {
+        "Title": "COMPLEX ANALYSIS AND PART. DIFF. EQUATION",
+        "Code": "MTH 3112"
+    },
+    {
+        "Title": "DISCRETE MATHEMATICS",
+        "Code": "MTH 3122"
+    },
+    {
+        "Title": "PARTIAL DIFFERENTIAL EQUATIONS",
+        "Code": "MTH 3311"
+    },
+    {
+        "Title": "PARTIAL DIFFERENTIAL EQUATIONS",
+        "Code": "MTH 3311"
+    }
+]

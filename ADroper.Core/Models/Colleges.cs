@@ -7,7 +7,7 @@ namespace ADroper.Core.Models
     public class Colleges
     {
         public const string LAWS = "LAWS";
-        public const string ECONS = "ENMS";
+        public const string ECONS = "ECONS";
         public const string IRKHS = "IRKHS";
         public const string ENGIN = "ENGIN";
         public const string ARCHITECTURE = "AED";
